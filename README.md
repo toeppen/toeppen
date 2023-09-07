@@ -35,6 +35,7 @@ At the moment I try to look at as many languages as possible and understand them
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+Just to name a few. But as mentioned above, most of them were just game projects and I didn't look deeply into them. 😅
 
 # My Stats
 ![MyStats](https://github-readme-stats.vercel.app/api?username=toeppen&theme=blue-green)
